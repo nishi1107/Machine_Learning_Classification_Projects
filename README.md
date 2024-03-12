@@ -5,3 +5,5 @@
 _**Project-1:** Heart Disease Prediction using Logistic Regression_
 
 _**Project-2:** Credit Card Fraud Detection using Random Forest_
+
+_**Project-3:** Email Spam Detection using all Classification Algorithms_
